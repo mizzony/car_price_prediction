@@ -1,0 +1,27 @@
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# Conda
+conda/
+miniconda*/
+anaconda*/
+
+# Streamlit
+.streamlit/cache/
+
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
